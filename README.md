@@ -42,10 +42,9 @@ A clustering analysis project using Python to segment customers based on purchas
 A time series analysis project in R to forecast financial performance for the next quarter.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Profbla2020&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BhbAKzkQPQyabI0bHDN0%2Bgg%3D%3D)
+
 
