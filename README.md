@@ -32,8 +32,10 @@ Here are some of the tools and technologies I work with:
 ## 🧰 Projects
 Here are some projects that showcase my work:
 
-### [Project 1: Sales Dashboard](https://github.com/yourusername/sales-dashboard)
-An interactive sales dashboard created in Power BI to track performance metrics and identify sales trends.
+### [Project 1: Hedonic Price Model for Impact of Micromobility infrastructure on Property Values](https://github.com/Profbla2020/Hedonic-Price-Model-project.git)
+Regression and Hedonic Price Modeling: Using R to conduct sophisticated statistical 
+analyses that control for various property characteristics, ensuring that the observed 
+effects on property prices are attributed accurately to micromobility proximity
 
 ### [Project 2: Customer Next Buy Analysis Model](https://github.com/Profbla2020/Customer-predictive-Model.git)
 An Unsupervised Machine Learning project using Python to Predict customers that would buy again based on purchasing behavior.
