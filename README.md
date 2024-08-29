@@ -35,7 +35,7 @@ Here are some projects that showcase my work:
 ### [Project 1: Sales Dashboard](https://github.com/yourusername/sales-dashboard)
 An interactive sales dashboard created in Power BI to track performance metrics and identify sales trends.
 
-### [Project 2: Customer Segmentation Analysis](https://github.com/Profbla2020/Customer-predictive-Model.git)
+### [Project 2: Customer Next Buy Analysis Model](https://github.com/Profbla2020/Customer-predictive-Model.git)
 An Unsupervised Machine Learning project using Python to Predict customers that would buy again based on purchasing behavior.
 
 ## 📈 GitHub Stats
